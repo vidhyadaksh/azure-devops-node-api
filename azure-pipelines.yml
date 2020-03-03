@@ -14,3 +14,4 @@ steps:
 
 - script: npm run units
   displayName: Run unit tests
+  displayName: npm install,buil and  unit tests
